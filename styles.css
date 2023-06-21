@@ -1,0 +1,28 @@
+h1 {
+    font-family: "Orbit", sans-serif;
+    padding: 20px;
+    margin: 30px;
+    border: 20px solid black;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+div {
+    padding: 20px;
+    margin: 30px;
+    border: 20px solid black;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a {
+    font-family: monospace, sans-serif;
+}
+
+body {
+    text-align: center;
+}
